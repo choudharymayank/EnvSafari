@@ -1,0 +1,16 @@
+body{
+  background: url("./Images/lago-di-limides-3025780.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+}
+
+.container{
+  border:3px solid red;
+  height:100vh;
+  width:100vw
+}
